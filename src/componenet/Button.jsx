@@ -1,6 +1,9 @@
 import React from 'react'
 
 const Button = ({handleSearch,loading}) => {
+  function add(){
+    
+  }
   return (
     <button
     onClick={handleSearch}
